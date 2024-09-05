@@ -1,1 +1,1 @@
-print("tets kraken v2")
+print("tets kraken v2.2")
